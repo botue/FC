@@ -10,7 +10,7 @@ swiper {
 .slide-image {
   width: 100%;
   height: 100%;
-  background: #D8D8D8 url(http://fc-paradise.oss-cn-hangzhou.aliyuncs.com/images/blank.png) no-repeat center;
+  background: #D8D8D8 url(https://static.botue.com/paradise/images/blank.png) no-repeat center;
   background-size: 130rpx auto;
 }
 
@@ -39,7 +39,7 @@ swiper {
   height: 60rpx;
   text-align: center;
   line-height: 58rpx;
-  background: url(http://fc-paradise.oss-cn-hangzhou.aliyuncs.com/images/status_default.png);
+  background: url(https://static.botue.com/paradise/images/status_default.png);
   background-size: cover;
   font-size: 12px;
   color: #FFF;
@@ -50,7 +50,7 @@ swiper {
 }
 
 .activity .item .active {
-  background-image: url(http://fc-paradise.oss-cn-hangzhou.aliyuncs.com/images/status_active.png);
+  background-image: url(https://static.botue.com/paradise/images/status_active.png);
 }
 
 .activity .collect {
@@ -75,7 +75,7 @@ swiper {
   display: block;
   width: 100%;
   height: 320rpx;
-  background: #D8D8D8 url(http://fc-paradise.oss-cn-hangzhou.aliyuncs.com/images/placeholder.png) no-repeat center;
+  background: #D8D8D8 url(https://static.botue.com/paradise/images/placeholder.png) no-repeat center;
   background-size: 260rpx auto;
  }
 
